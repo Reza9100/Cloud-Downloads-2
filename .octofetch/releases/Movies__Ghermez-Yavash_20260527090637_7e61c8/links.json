@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4685",
+  "folder": "Movies__Ghermez-Yavash_20260527090637_7e61c8",
+  "base_name": "Movies__Ghermez-Yavash_20260527090637_7e61c8.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Reza9100/Cloud-Downloads-2/releases/tag/co-releases-v1-4685",
+  "files": [
+    {
+      "name": "Movies__Ghermez-Yavash_20260527090637_7e61c8.mp4",
+      "url": "https://github.com/Reza9100/Cloud-Downloads-2/releases/download/co-releases-v1-4685/Movies__Ghermez-Yavash_20260527090637_7e61c8.mp4",
+      "api_url": "https://api.github.com/repos/Reza9100/Cloud-Downloads-2/releases/assets/430956346",
+      "id": 430956346,
+      "size": 694574323,
+      "download_count": 0
+    }
+  ]
+}
