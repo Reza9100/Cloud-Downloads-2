@@ -1,0 +1,27 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6827",
+  "folder": "Movies__NatoreDasht-1080.new_20260527091550_3a498a",
+  "base_name": "Movies__NatoreDasht-1080.new_20260527091550_3a498a.mp4",
+  "is_split": true,
+  "part_count": 2,
+  "release_url": "https://github.com/Reza9100/Cloud-Downloads-2/releases/tag/co-releases-v1-6827",
+  "files": [
+    {
+      "name": "Movies__NatoreDasht-1080.new_20260527091550_3a498a.mp4.part00",
+      "url": "https://github.com/Reza9100/Cloud-Downloads-2/releases/download/co-releases-v1-6827/Movies__NatoreDasht-1080.new_20260527091550_3a498a.mp4.part00",
+      "api_url": "https://api.github.com/repos/Reza9100/Cloud-Downloads-2/releases/assets/430963430",
+      "id": 430963430,
+      "size": 1622770650,
+      "download_count": 0
+    },
+    {
+      "name": "Movies__NatoreDasht-1080.new_20260527091550_3a498a.mp4.part01",
+      "url": "https://github.com/Reza9100/Cloud-Downloads-2/releases/download/co-releases-v1-6827/Movies__NatoreDasht-1080.new_20260527091550_3a498a.mp4.part01",
+      "api_url": "https://api.github.com/repos/Reza9100/Cloud-Downloads-2/releases/assets/430964252",
+      "id": 430964252,
+      "size": 1622770649,
+      "download_count": 0
+    }
+  ]
+}
